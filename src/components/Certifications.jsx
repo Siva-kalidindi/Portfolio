@@ -7,12 +7,12 @@ const certs = [
 	{
 		title: "ServiceNow Certified System Administrator (CSA)",
 		issuer: "ServiceNow",
-		year: 2024,
+		year: 2025,
 	},
 	{
 		title: "ServiceNow Certified Application Developer (CAD)",
 		issuer: "ServiceNow",
-		year: 2024,
+		year: 2025,
 	},
 ];
 
