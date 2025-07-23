@@ -1,6 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { BadgeCheckIcon } from "lucide-react";
+import '../App.css';
 
 const certs = [
 	{
